@@ -1387,21 +1387,9 @@ a.block.block-link-pop:hover {
 }
 
 #navbarSupportedContent .z-navbar-nav-title {
-	display: none;
-		width: $template2.back.menu.title.width;
-	line-height: $template2.back.menu.title.lineHeight;
-	margin: $template2.back.menu.title.margin;
-	padding: $template2.back.menu.title.padding;
-	color: $template2.back.menu.title.color;
-	font-size: $template2.back.menu.title.fontSize;
-	border-radius: $template2.back.menu.title.borderRadius;
-	border-width: $template2.back.menu.title.borderWidth;
-	border-style: $template2.back.menu.title.borderStyle;
-	border-color: $template2.back.menu.title.borderColor;
-	background-color: $template2.back.menu.title.backgroundColor;
-	box-shadow: $template2.back.menu.title.boxShadow;
-	text-align: $template2.back.menu.title.textAlign;
+    display: none;
 }
+
 
 #navbarSupportedContent .navbar-nav.mr-auto {
 	display: flex;

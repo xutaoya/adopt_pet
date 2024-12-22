@@ -110,7 +110,7 @@ span.tags {
     width: 100%;
     padding: 5px 0;
 }
-..profile-content > span{
+.profile-content > span{
     width: 100px;
 }
 .profile-content > i {
@@ -132,7 +132,8 @@ span.tags {
   
 
 }
-.dl-horizontal-profile dd:before{
+.dl-horizontal-profile dd:before {
     content: ":";
     padding-right: 20px;
+}
 
